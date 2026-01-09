@@ -18,7 +18,7 @@ You can check the version with the following commands:
 
 The easiest way to get this project is by downloading the **project_installing_script.sh** that you can find in scripts/project_installing_script.sh on the project gihub repository https://github.com/farouk2101/Porfolio/tree/main or by using the following command in your terminal:
 </br>
-```curl lalal > project_installing_script.sh```
+```curl https://raw.githubusercontent.com/farouk2101/Porfolio/refs/heads/main/scripts/project_installing_script.sh > project_installing_script.sh```
 
 ### Second thing
 Is to run the followin command if it has never been done:</br>

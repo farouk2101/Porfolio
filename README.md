@@ -1,6 +1,42 @@
 # Porfolio
 This project main goal is to expose all my projects and different experiences to any headhunter and/or HR and/or techlead that would like to know more about me.
 
+# How to get this project
+
+### First thing
+Is to make sure that you have the required version of Node.js and npm (if you download the right version of Node?js the right version of npm should come along).
+
+The versions wanted are:
+- v24.12.0 for Node.js
+- 11.6.2 for npm
+
+You can check the version with the following commands:
+- node --version
+- npm --version
+
+(But don't worry the installation process won't let you make any error)
+
+The easiest way to get this project is by downloading the **project_installing_script.sh** that you can find in scripts/project_installing_script.sh on the project gihub repository https://github.com/farouk2101/Porfolio/tree/main or by using the following command in your terminal:
+</br>
+```curl lalal > project_installing_script.sh```
+
+### Second thing
+Is to run the followin command if it has never been done:</br>
+```npm i -g @angular/cli```
+
+Then run:</br>
+```ng v```</br>
+and check that all the versions are correct
+
+
+### Third thing
+Is to run the script, and if everything is correctly set up on your computer, it will work perfectly. Otherwise a message will let you know which version is awaited and wich one you curretly have.
+
+### Fourth and final thing
+Is that you can run the project with the command:</br>
+```ng serve```</br>
+and connect to the online link indicated in the terminal (**http://localhost:4200/** by default)
+
 ## Features I want this project to have
 
 | ID | Feature name | Description | Term | State |

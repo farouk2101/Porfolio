@@ -5,8 +5,6 @@ npm_wanted_version="11.6.2"
 node_version="$(node --version)"
 npm_version="$(npm --version)"
 
-play=false
-
 if [[ $node_version == $node_wanted_version && $npm_version == $npm_wanted_version ]];
   then
     ng new TBR --style=scss --skip-tests=true

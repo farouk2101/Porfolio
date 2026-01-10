@@ -4,7 +4,10 @@ This project main goal is to expose all my projects and different experiences to
 # How to get this project
 
 ### First thing
-Is to make sure that you have the required version of Node.js and npm (if you download the right version of Node?js the right version of npm should come along).
+Is to make sure that you have the required version of Node.js and npm (if you download the right version of Node.js the right version of npm should come along).
+
+You can download the version for windows in here:</br>
+**https://nodejs.org/dist/v24.12.0/node-v24.12.0-x64.msi**
 
 The versions wanted are:
 - v24.12.0 for Node.js
@@ -16,7 +19,7 @@ You can check the version with the following commands:
 
 (But don't worry the installation process won't let you make any error)
 
-The easiest way to get this project is by downloading the **project_installing_script.sh** that you can find in scripts/project_installing_script.sh on the project gihub repository https://github.com/farouk2101/Porfolio/tree/main or by using the following command in your terminal:
+The easiest way to get this project is by downloading the **project_installing_script.sh** that you can find in scripts/project_installing_script.sh on the project gihub repository **https://github.com/farouk2101/Porfolio/tree/main** or by using the following command in your terminal:
 </br>
 ```curl https://raw.githubusercontent.com/farouk2101/Porfolio/refs/heads/main/scripts/project_installing_script.sh > project_installing_script.sh```
 

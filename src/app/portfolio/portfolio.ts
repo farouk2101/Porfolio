@@ -17,7 +17,7 @@ export class Portfolio {
     this.title = "My Face";
     this.counter = 0;
     this.createdAt = new Date();
-    this.imageURL = "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg";
+    this.imageURL = "https://github.com/farouk2101/Porfolio/blob/farouk/resources/CV_Farouk.png?raw=true";
     this.likeText = "Like";
   }
 
